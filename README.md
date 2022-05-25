@@ -9,4 +9,4 @@ I'm Phil, and I live on the internet for now. It's nice to meet you!
 - 💬 Ask me about what non-stick cookware has to do with arctic birds.
 - 📫 How to reach me: Open an issue on this repository.
 - 😄 Pronouns: You can probably correctly guess, and if not, I'll be offended. That's OK though, as offense is inevitable.
-- ⚡ Fun fact: Carpets are partly made of plastic.
+- ⚡ Fun fact: Carpets are 92% - 94% made of plastic.
