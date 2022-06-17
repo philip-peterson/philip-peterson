@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Phil, and I live on the internet for now. It's nice to meet you!
+I'm Phil. It's nice to meet you!
 
-- 💬 Ask me about what non-stick cookware has to do with arctic birds.
-- 🔭 I’m currently working on a [version control system](https://www.copia.io/) for outdated industrial automation.
+- 💬 Ask me about what nonstick cookware has to do with arctic birds.
+- 🔭 I’m currently working on a [version control system](https://www.copia.io/) for industrial automation use cases.
 - 🌱 I’m currently learning more about business and finance.
 - 👯 I’m looking to collaborate on climate, greentech, and wildlife community initiatives.
 - 🤔 I’m looking for help with Java/Spring.
