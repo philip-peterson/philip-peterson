@@ -25,6 +25,7 @@ A few software projects I either created or was a part of that might be interest
   * [arc_new_cyclic_n](https://github.com/philip-peterson/arc_new_cyclic_n) - Utility functions for if you like cyclic graphs
   * [groupls](https://github.com/philip-peterson/groupls) - Because the world needs more random Unix utilities
   * [pullomatic](https://github.com/philip-peterson/pullomatic) - I use it for declarative deployments with NixOS
+  * [taginfo](https://github.com/philip-peterson/taginfo) - Inspect SGML elements
   * [traitobject](https://github.com/philip-peterson/destructure_traitobject) - Random crate I maintain
   * [variadic_closure](https://github.com/philip-peterson/variadic-closure/tree/master) - Don't even ask
 
@@ -43,10 +44,19 @@ A few software projects I either created or was a part of that might be interest
 
 * Python:
   * [Algorithms etc.](https://github.com/philip-peterson/algorithms-etcetera)
+  * [AtrusBot](https://github.com/starryexpanse/AtrusBot) - An IRC message-delivery bot we needed for Starry Expanse back before Slack existed
+    * [A Flask app backend](https://github.com/philip-peterson/irc-log-viewer) for viewing said logs
+  * [cleanOld.py](https://github.com/starryexpanse/59volts-utils/blob/master/Scripts/cleanOld.py) - Clear out recent logs while retaining weekly/monthly/yearly copies
+  * [pyternion](https://github.com/philip-peterson/pyternion) - Quaternions are cool, and they originated in Ireland
+  * [bresenham line drawing](https://github.com/philip-peterson/bresenham-implementation) - like in mspaint
+  * [Hello Internet Forecast](https://github.com/philip-peterson/HIForecast) - no longer running, but an app I deployed on Heroku to predict when my favorite podcast would come out
 
 * Misc:
   * [C++ water simulation](https://github.com/philip-peterson/UE4_WaterSim) for Unreal Engine 4 that I made while at UF.
+  * [C++ raytracer](https://github.com/philip-peterson/raytracer) I made for graphics class
   * [clojure-reagent-starter-kit](https://github.com/philip-peterson/clojure-reagent-starter-kit)
+  * [An IRC bot I wrote in Coffeescript](https://github.com/starryexpanse/MagBot) (why did I write it in Coffeescript?)
+  * [WikiChecker](https://github.com/philip-peterson/WikiChecker) - another thing I wrote in Coffeescript for some unhinged reason
   * [US states and territories structured data](https://github.com/philip-peterson/us-states-territories/blob/main/index.json)
   * [deno-react-hello-world](https://github.com/philip-peterson/deno-react-hello-world) - Want to learn Deno?
   * [docker-nginx-webdav-nononsense](https://github.com/philip-peterson/docker-nginx-webdav-nononsense) - For when you just need WebDAV
