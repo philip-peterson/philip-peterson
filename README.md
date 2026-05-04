@@ -1,4 +1,4 @@
-Hi! I am a software worker with 10 years of experience. I've moved all around the West Coast of the United States (including Alaska)
+Hi! I am a software worker with 10 years of experience. I've moved all around the west coast of the United States (including Alaska)
 and in terms of code, I've been involved in:
 
 * [Video games](https://starryexpanse.com)
@@ -29,7 +29,7 @@ A few software projects I either created or was a part of that might be interest
   * [drupal-starter-image-12-dev](https://github.com/philip-peterson/drupal-starter-image-12-dev)
 
 * Fun:
-  * [ATC Sim](https://github.com/philip-peterson/ATC-Sim), an arcade-style game
+  * [ATC Sim](http://philippeterson.com/games/atcsim/) ([source](https://github.com/philip-peterson/ATC-Sim)), an arcade-style aviation-themed game
   * A [Sky Shader](https://gist.github.com/philip-peterson/7048408712c4b94d3f45cc2d2b6d255e) in Unity ShaderLab which was used in Starry Expanse presentations and later became [Ultra Dynamic Sky](https://www.ultradynamicsky.com)
   * [Quine Global](https://quineglobal.com) landing page ([source](https://github.com/philip-peterson/quineglobal-landing)) - Quine is supposed to be one of those companies you're not quite sure what they actually do, like how the company behind the S&P 500's [website makes you feel](http://spglobal.com/).
     * [Quine Blogs](https://blog.quineglobal.com) ([source](https://github.com/philip-peterson/quineglobal-blog)) which are sometimes written for executives and sometimes for staff FP software engineers.
