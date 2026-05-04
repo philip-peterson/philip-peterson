@@ -60,3 +60,5 @@ A few software projects I either created or was a part of that might be interest
   * [US states and territories structured data](https://github.com/philip-peterson/us-states-territories/blob/main/index.json)
   * [deno-react-hello-world](https://github.com/philip-peterson/deno-react-hello-world) - Want to learn Deno?
   * [FLIBS](https://github.com/philip-peterson/flibs), the Fortran library I maintain sometimes. I used to make [Fortran tutorials](https://www.youtube.com/watch?v=4CWobFcPe2M&list=PLDOiVunkOLsHhbqc-1JI3wHBGIK18-U0G) by the way
+
+Thanks for reading to the end. I bet you're a cool person. I'd love it if you [reached out](https://philippeterson.com/contact). :)
