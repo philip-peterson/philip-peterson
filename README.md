@@ -59,5 +59,4 @@ A few software projects I either created or was a part of that might be interest
   * [WikiChecker](https://github.com/philip-peterson/WikiChecker) - another thing I wrote in Coffeescript for some unhinged reason
   * [US states and territories structured data](https://github.com/philip-peterson/us-states-territories/blob/main/index.json)
   * [deno-react-hello-world](https://github.com/philip-peterson/deno-react-hello-world) - Want to learn Deno?
-  * [docker-nginx-webdav-nononsense](https://github.com/philip-peterson/docker-nginx-webdav-nononsense) - For when you just need WebDAV
   * [FLIBS](https://github.com/philip-peterson/flibs), the Fortran library I maintain sometimes. I used to make [Fortran tutorials](https://www.youtube.com/watch?v=4CWobFcPe2M&list=PLDOiVunkOLsHhbqc-1JI3wHBGIK18-U0G) by the way
