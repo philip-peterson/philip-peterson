@@ -4,7 +4,7 @@ and in terms of code, I've been involved in:
 * [Video games](https://starryexpanse.com)
 * [Y Combinator startups](https://amplitude.com) (and [also](https://www.commure.com))
 * [Random HOA websites](https://thetrailsairpark.com), and currently working on...
-* [Open-Source Desktop Apps with a Climate-Change-Related Mission](https://github.com/quine-global/hyper).
+* [HYPER, the web-based Terminal](https://github.com/quine-global/hyper).
 
 There have also been quite a few open-source libraries I released along the way, listed below. But first I also wanted to mention that I am a musician and have performed a bit in the past:
 
